@@ -1,10 +1,4 @@
 {
-  "name": "Zwedy/mvc_train",
-  "description": "MVC MODEL",
-  "require": {
-    "php": ">=7.0",
-    "another-vendor/package": "1.*"
-  },
   "autoload": {
     "psr-4": {
       "MVC\\" : "app"
